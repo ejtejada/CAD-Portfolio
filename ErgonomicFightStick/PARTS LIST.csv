@@ -1,0 +1,15 @@
+ITEM,QTY,PART NUMBER,TITLE,MATERIAL,MASS,ESTIMATED COST
+1,1,BP-01,Base Plate,Wood (Cherry),0.081 kg,$1.47
+2,2,VP-01,Vertical Plate,Wood (Cherry),0.029 kg,$0.51
+3,2,HP-01,Horizontal Plate,Wood (Cherry),0.053 kg,$0.94
+4,8,C-M3-M,Corner M3 Mount,ABS Plastic,0.002 kg,$0.05
+5,28,AS 1420 - 1973 - M3 x 6,M3 Screw (Short),"Steel, Mild",0.001 kg,$0.10
+6,1,TP-01,Top Plate,"Polycarbonate, Clear",0.133 kg,$3.33
+7,6,Pushbutton - BG,Arcade Buttons,,0.024 kg,$2.48
+8,1,Zippy JLF-TP-8YT,Zippy Joystick (Short Actuator),,0.142 kg,$18.28
+9,1,MM-v12,Makey Makey V1.2,Phenolic Resin,0.048 kg,$49.95
+10,3,AS 1420 - 1973 - M3 x 10,M3 Screw (Long),"Steel, Mild",0.001 kg,$0.10
+11,7,BS 4183 - M3,M3 Nut,"Steel, Mild",0.000 kg,$0.07
+12,1,FSG01,Ergonomic Pencil Grip,Rubber,0.029 kg,$0.81
+13,2,SW-S01,Silicone Wrist Support,"Rubber, Silicone",0.082 kg,$7.99
+14,4,ISO 7093 - 3 - 140 HV,Oversized M3 Washer,Stainless Steel,0.000 kg,$0.07
